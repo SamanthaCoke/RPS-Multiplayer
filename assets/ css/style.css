@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumboton {
+    background-color: aquamarine;
+    color: bisque
+    border: 5px solid black;
+}
+
+.panel-footer{
+    background-color: black;
+    color: whitesmoke;
+    boder-top; 20px solid #26233B;
+}
